@@ -2,12 +2,7 @@
 
 This mini project is regarding expanding card behavior based JavaScript Vanilla, so you can do:
 
-- Write a to do
-- Delete a to do
-- See all to do's
-- Delete all completed to do's
-- Filter by completed to do's
-- Filter by pending to do's
+- Click and expanding card behaviour
 
 ## Makers
 
